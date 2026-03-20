@@ -1,0 +1,21 @@
+{
+  "name": "ejercicio-final-bloque2",
+  "version": "1.0.0",
+  "description": "Ejercicio final del bloque 2",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImToad06/ejercicio-final-bloque2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ImToad06/ejercicio-final-bloque2/issues"
+  },
+  "homepage": "https://github.com/ImToad06/ejercicio-final-bloque2#readme"
+}
