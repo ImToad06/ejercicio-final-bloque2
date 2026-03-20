@@ -1,2 +1,3 @@
 # ejercicio-final-bloque2
-Ejercicio final del bloque 2
+**Nombre:** Juan Reyes  
+Ejercicio final del bloque 2, práctica javascript.
